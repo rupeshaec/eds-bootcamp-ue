@@ -205,7 +205,7 @@
          "component": "text",
          "valueType": "string",
          "name": "author",
-         "label": "Author-Text",
+         "label": "Author-Text-Test",
          "value": ""
        }
      ]
