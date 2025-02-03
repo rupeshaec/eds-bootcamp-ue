@@ -2,8 +2,9 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--eds-bootcamp-ue--rupeshaec.aem.page/
+- Live: https://main--eds-bootcamp-ue--rupeshaec.aem.live/
+- AEM: https://author-p139726-e1433618.adobeaemcloud.com/
 
 ## Documentation
 
