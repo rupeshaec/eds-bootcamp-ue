@@ -217,7 +217,7 @@
         "component": "text",
         "valueType": "string",
         "name": "marqueeText",
-        "value": "",
+        "value": "Some value",
         "label": "Marquee text",
         "description": "The text you want shown in your marquee"
       },
