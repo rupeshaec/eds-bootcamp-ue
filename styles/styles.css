@@ -210,6 +210,12 @@ button.secondary {
   color: var(--text-color);
 }
 
+button.wknd {
+  background-color: unset;
+  border: 2px solid currentcolor;
+  color: var(--text-color);
+}
+
 main img {
   max-width: 100%;
   width: auto;
