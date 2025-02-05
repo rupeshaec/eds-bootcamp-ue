@@ -43,7 +43,7 @@
           }
         },
         {
-          "title": "Button",
+          "title": "Button That",
           "id": "button",
           "plugins": {
             "xwalk": {
