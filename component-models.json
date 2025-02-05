@@ -90,6 +90,10 @@
           {
             "name": "secondary",
             "value": "secondary"
+          },
+          {
+            "name": "wknd",
+            "value": "wknd"
           }
         ]
       }

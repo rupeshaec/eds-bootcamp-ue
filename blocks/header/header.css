@@ -148,6 +148,7 @@ header .nav-brand {
 header .section.nav-brand a {
   font-style: normal;
   text-decoration: none;
+  font-size: 2.5rem;
 }
 
 .section.nav-sections a:hover {
