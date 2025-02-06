@@ -1,4 +1,5 @@
 export default function decorate(block) {
+  console.log(block);
   // block.querySelectorAll('a').forEach((a) => {
   //   a.title = a.title || a.textContent;
   //   if (a.href !== a.textContent) {
