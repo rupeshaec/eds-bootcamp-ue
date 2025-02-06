@@ -1,7 +1,7 @@
 a.button-wknd.wknd,
 button-wknd.wknd {
-  background-color: var(--brandPrimary, #ffea00);
-  border-radius: var(--buttonBorderRadius, 0);
+  background-color: #ffea00;
+  border-radius: 0;
   color: var(--textColor, #202020);
   float: left;
   font-size: var(--fontSizeSmall, 14px);
