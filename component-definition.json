@@ -173,6 +173,23 @@
               }
             }
           }
+        },
+        {
+          "title": "Button-new",
+          "id": "button-new",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Quote",
+                  "model": "quote",
+                  "quote": "<p>Think, McFly! Think! What is this</p>",
+                  "author": "Biff Tannen"
+                }
+              }
+            }
+          }
         }
       ]
     }

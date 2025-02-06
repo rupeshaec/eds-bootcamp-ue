@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "Button",
-      "id": "button",
+      "title": "Button Wknd Variations",
+      "id": "button-wknd",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/button/v1/button",
             "template": {
-              "model": "button"
+              "model": "button-wknd"
             }
           }
         }
@@ -17,7 +17,7 @@
   ],
   "models": [
     {
-      "id": "button",
+      "id": "button-wknd",
       "fields": [
         {
           "component": "aem-content",
