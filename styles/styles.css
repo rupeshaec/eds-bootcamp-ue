@@ -175,7 +175,7 @@ button {
   border: 2px solid transparent;
   border-radius: 2.4em;
   padding: 0.5em 1.2em;
-  font-family: var(--fontFamilySerif, "Asar", Georgia, "Times New Roman", Times, serif);
+  font-family: var(--body-font-family);
   font-style: normal;
   font-weight: 500;
   line-height: 1.25;
