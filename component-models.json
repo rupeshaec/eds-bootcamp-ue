@@ -211,7 +211,7 @@
      ]
   },
   {
-    "id": "button_wknd",
+    "id": "buttonwknd",
     "fields": [
       {
         "component": "aem-content",
