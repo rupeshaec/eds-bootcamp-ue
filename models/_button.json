@@ -1,7 +1,7 @@
 {
   "definitions": [
     {
-      "title": "Button This",
+      "title": "Button",
       "id": "button",
       "plugins": {
         "xwalk": {
