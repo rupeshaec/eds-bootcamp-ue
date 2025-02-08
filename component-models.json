@@ -262,9 +262,9 @@
       },
       {
         "component": "richtext",
-        "name": "text",
+        "name": "description",
         "value": "",
-        "label": "description",
+        "label": "Description",
         "valueType": "string"
       },
       {
