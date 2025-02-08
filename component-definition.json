@@ -199,10 +199,11 @@
                 "template": {
                   "name": "Teaser",
                   "model": "teaser",
-                  "image": "https://sidekick-library--aem-block-collection--adobe.aem.page/media_14834b018561654e2ef0fc83b4ee16acc9989011c.jpeg?width=2000&format=webply&optimize=medium",
+                  "image": "/content/dam/eds-bootcamp-ue/wknd-teaser.jpeg",
                   "heading":"Featured Article",
                   "subheading": "Camping in Western Australia",
-                  "description": "Discover the best camping spots in Western Australia"
+                  "description": "Discover the best camping spots in Western Australia",
+                  "link": "/western-australia.html"
                 }
               }
             }
