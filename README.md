@@ -4,7 +4,9 @@ Your project's description...
 ## Environments
 - Preview: https://main--eds-bootcamp-ue--rupeshaec.aem.page/
 - Live: https://main--eds-bootcamp-ue--rupeshaec.aem.live/
-- AEM: https://author-p139726-e1433618.adobeaemcloud.com/
+- AEM:
+-- New https://author-p137117-e1552554.adobeaemcloud.com
+-- Old https://author-p139726-e1433618.adobeaemcloud.com/
 
 ## Documentation
 
