@@ -273,5 +273,17 @@
         "label": "Link"
       }
     ]
+  },
+  {
+    "id": "articles",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "cards",
+        "label": "Cards",
+        "multi": true
+      }
+    ]
   }
 ]
