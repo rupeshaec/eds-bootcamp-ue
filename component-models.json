@@ -192,96 +192,21 @@
     ]
   },
   {
-    "id": "quote",
-    "fields": [
-       {
-         "component": "richtext",
-         "name": "quote",
-         "value": "",
-         "label": "Quote-Test",
-         "valueType": "string"
-       },
-       {
-         "component": "text",
-         "valueType": "string",
-         "name": "author",
-         "label": "Author-Text-Test",
-         "value": ""
-       }
-     ]
-  },
-  {
-    "id": "buttonwknd",
-    "fields": [
-      {
-        "component": "aem-content",
-        "name": "link",
-        "label": "Link"
-      },
-      {
-        "component": "text",
-        "name": "linkText",
-        "label": "Text"
-      },
-      {
-        "component": "text",
-        "name": "linkTitle",
-        "label": "Title"
-      },
-      {
-        "component": "select",
-        "name": "linkType",
-        "label": "Type",
-        "options": [
-          {
-            "name": "Wknd Yellow",
-            "value": "wknd_yellow"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "teaser",
+    "id": "image-with-text",
     "fields": [
       {
         "component": "reference",
+        "valueType": "string",
         "name": "image",
         "label": "Image",
         "multi": false
       },
       {
-        "component": "text",
-        "name": "heading",
-        "label": "Heading"
-      },
-      {
-        "component": "text",
-        "name": "subheading",
-        "label": "Sub Heading"
-      },
-      {
         "component": "richtext",
-        "name": "description",
+        "name": "text",
         "value": "",
-        "label": "Description",
+        "label": "Text",
         "valueType": "string"
-      },
-      {
-        "component": "aem-content",
-        "name": "link",
-        "label": "Link"
-      }
-    ]
-  },
-  {
-    "id": "articles",
-    "fields": [
-      {
-        "component": "reference",
-        "name": "cards",
-        "label": "Cards",
-        "multi": true
       }
     ]
   }
