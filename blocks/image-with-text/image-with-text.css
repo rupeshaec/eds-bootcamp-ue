@@ -8,23 +8,21 @@
 }
 
 .image-with-text>div:nth-child(1) {
-    /* border: 1px solid pink; */
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
     width: 60%;
+    align-items: stretch;
 }
 
 .image-with-text>div:nth-child(2) {
-    /* border: 1px solid red; */
-    padding-left: 36px;
+    padding: 36px 0px 0px 36px;
     background-color: #ebebeb;
     width: 40%;
 }
 
 .image-with-text.block img {
-    /* border: 1px solid red; */
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%
