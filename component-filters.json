@@ -15,9 +15,7 @@
       "hero",
       "cards",
       "columns",
-      "fragment",
-      "image-with-text",
-      "articles"
+      "fragment"
     ]
   },
   {
@@ -40,12 +38,6 @@
       "button",
       "title",
       "cards"
-    ]
-  },
-  {
-    "id": "nesting",
-    "components": [
-      "card"
     ]
   }
 ]

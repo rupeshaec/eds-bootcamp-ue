@@ -121,6 +121,11 @@
     "id": "articles",
     "fields": [
       {
+        "component": "text",
+        "name": "title",
+        "label": "Title"
+      },
+      {
         "component": "aem-content",
         "name": "link",
         "label": "JSON Payload"
