@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/eds-bootcamp-ue/:/"
+    "/content/eds-bootcamp-ue/:/",
+    "/content/eds-bootcamp-ue/related-articles:/related-articles.json"
   ]
 }
