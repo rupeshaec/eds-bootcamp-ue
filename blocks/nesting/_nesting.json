@@ -37,6 +37,13 @@
         ]
       }
     ],
-    "filters": []
+    "filters": [
+    {
+      "id": "nesting",
+      "components": [
+        "card"
+      ]
+    }
+  ]
   }
   
