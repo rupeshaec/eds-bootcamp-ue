@@ -39,11 +39,5 @@
       "title",
       "cards"
     ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "image-with-text"
-    ]
   }
 ]

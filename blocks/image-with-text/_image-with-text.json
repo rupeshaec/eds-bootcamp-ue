@@ -37,13 +37,6 @@
         ]
       }
     ],
-    "filters": [
-      {
-      "id": "section",
-      "components": [
-        "image-with-text"
-      ]
-    }
-  ]
+    "filters": []
   }
   
