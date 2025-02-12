@@ -242,7 +242,7 @@
       {
         "component": "richtext",
         "name": "text",
-        "value": "",
+        "value": "some",
         "label": "Text",
         "valueType": "string"
       }
