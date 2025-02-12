@@ -45,11 +45,5 @@
     "components": [
       "image-with-text"
     ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "nesting"
-    ]
   }
 ]
