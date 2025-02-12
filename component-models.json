@@ -118,6 +118,16 @@
     ]
   },
   {
+    "id": "articles",
+    "fields": [
+      {
+        "component": "aem-content",
+        "name": "link",
+        "label": "JSON Payload"
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {
@@ -205,44 +215,6 @@
         "component": "richtext",
         "name": "text",
         "value": "test",
-        "label": "Text",
-        "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "nesting",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "richtext",
-        "name": "text",
-        "value": "",
-        "label": "Text",
-        "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "random",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "richtext",
-        "name": "text",
-        "value": "some",
         "label": "Text",
         "valueType": "string"
       }
