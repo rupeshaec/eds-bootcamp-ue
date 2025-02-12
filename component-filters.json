@@ -15,7 +15,9 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "nesting",
+      "image-with-text"
     ]
   },
   {
