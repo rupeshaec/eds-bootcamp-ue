@@ -30,7 +30,7 @@
           {
             "component": "richtext",
             "name": "text",
-            "value": "",
+            "value": "test",
             "label": "Text",
             "valueType": "string"
           }
