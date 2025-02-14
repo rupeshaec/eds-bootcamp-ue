@@ -33,6 +33,25 @@
             "value": "test",
             "label": "Text",
             "valueType": "string"
+          },
+          {
+            "component": "select",
+            "name": "theme",
+            "label": "Theme",
+            "options": [
+              {
+                "name": "h1",
+                "value": "h1"
+              },
+              {
+                "name": "Image with text on right",
+                "value": "img-right"
+              },
+              {
+                "name": "Image with top and text overlayed",
+                "value": "img-overlayed"
+              }
+            ]
           }
         ]
       }
