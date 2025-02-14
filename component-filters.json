@@ -16,7 +16,21 @@
       "cards",
       "columns",
       "fragment",
-      "article"
+      "article",
+      "image-with-text"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "columns",
+      "fragment"
     ]
   },
   {
