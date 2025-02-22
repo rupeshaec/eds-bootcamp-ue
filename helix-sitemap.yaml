@@ -1,5 +1,6 @@
 sitemaps:
   default:
     source: /query-index.json
+    origin: https://www.somedomain.com.au
     destination: /sitemap.xml
     lastmod: YYYY-MM-DD
