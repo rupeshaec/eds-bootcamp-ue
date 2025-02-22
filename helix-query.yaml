@@ -10,7 +10,6 @@ indices:
       - '/taxonomy'
       - '/related-articles'
       - '/redirects'
-      - '/placeholders'
     target: /query-index.json
     properties:
         title:
