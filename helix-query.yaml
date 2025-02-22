@@ -6,6 +6,11 @@ indices:
       - '/**'
     exclude:
       - '/**.json'
+      - '/placeholders'
+      - '/taxonomy'
+      - '/related-articles'
+      - '/redirects'
+      - '/placeholders'
     target: /query-index.json
     properties:
       lastModified:
