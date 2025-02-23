@@ -129,6 +129,16 @@
         "component": "aem-content",
         "name": "link",
         "label": "JSON Payload"
+      },
+      {
+        "component": "text",
+        "name": "btnText",
+        "label": "Button Text"
+      },
+      {
+        "component": "aem-content",
+        "name": "link",
+        "label": "Button CTA"
       }
     ]
   },
