@@ -6,9 +6,7 @@ async function getArticles(link) {
 const payload = await getArticles('/related-articles.json');
 
 export default function decorate(block) {
-  const [heading, container] = block.children;
-
-  console.log(heading);
+  const [, container] = block.children;
 
   const template = `
   <div class="article-card">

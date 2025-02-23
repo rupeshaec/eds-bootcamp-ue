@@ -131,14 +131,10 @@
         "label": "JSON Payload"
       },
       {
-        "component": "text",
-        "name": "btnText",
-        "label": "Button Text"
-      },
-      {
-        "component": "aem-content",
-        "name": "link",
-        "label": "Button CTA"
+        "component": "richtext",
+        "name": "btn",
+        "label": "Button with CTA and label",
+        "valueType": "string"
       }
     ]
   },
