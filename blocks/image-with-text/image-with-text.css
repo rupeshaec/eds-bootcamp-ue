@@ -10,7 +10,6 @@
 .image-with-text>div:nth-child(1) {
     display: flex;
     justify-content: center;
-    align-items: center;
     overflow: hidden;
     width: 60%;
     align-items: stretch;

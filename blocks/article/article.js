@@ -1,12 +1,12 @@
 async function getArticles(link) {
-    const response = await fetch(link);
-    return response.json();
-  }
+  const response = await fetch(link);
+  return response.json();
+}
 
 const payload = await getArticles('/related-articles.json');
-  
+
 export default function decorate(block) {
-  const [heading, container] = block.children;
+  const [container] = block.children;
 
   const template = `
   <div class="article-card">
@@ -18,17 +18,13 @@ export default function decorate(block) {
   </div>
   `;
 
-  var innerHTML = '';
-  payload.data.forEach(element => {
-    console.warn(element);
+  let innerHTML = '';
+  payload.data.forEach((element) => {
     innerHTML += template
       .replace('{img}', element.Image)
       .replace('{title}', element.Title)
       .replace('{title}', element.Title)
       .replace('{description}', element.Description);
   });
-
-  console.warn(heading);
-  console.warn(container);
   container.innerHTML = innerHTML;
 }
