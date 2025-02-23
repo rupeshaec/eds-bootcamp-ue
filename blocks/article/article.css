@@ -31,6 +31,8 @@
 
 .article>div:nth-child(1) {
     font-size: 2rem;
+    display: flex;
+    flex-direction: row;
 }
 
 .article>div:nth-child(1) p {
@@ -44,4 +46,5 @@
     flex-direction: row;
     justify-content: space-between;
     padding: 1rem;
+    border: 1px solid red;
 }
