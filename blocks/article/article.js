@@ -13,7 +13,7 @@ export default function decorate(block) {
   const template = `
   <div class="article-card">
     <div class="article-img">
-      <img src="{img}" alt="{title}" class="article-card__image">
+      <img src="https://articles--eds-bootcamp-ue--rupeshaec.aem.page/media_117fe35dbf013f56649517555c10a4e809c585d79.png?width=2000&format=webply&optimize=medium" alt="{title}" class="article-card__image">
     </div>
     <h1 class="article-card-title">{title}</h1>
     <p class="article-card-description">{description}</p>
