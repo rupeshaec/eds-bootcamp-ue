@@ -3,7 +3,7 @@ async function getArticles(link) {
   return response.json();
 }
 
-const payload = await getArticles('/related-articles.json');
+const payload = await getArticles('/articles.json');
 
 export default function decorate(block) {
   const [container] = block.children;
