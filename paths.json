@@ -1,7 +1,8 @@
 {
   "mappings": [
     "/content/eds-bootcamp-ue/:/",
-    "/content/eds-bootcamp-ue/related-articles:/related-articles.json"
+    "/content/eds-bootcamp-ue/related-articles:/related-articles.json",
+    "/magazine-index.json:/magazine-index.json"
   ],
   "includes": [
     "/content/eds-bootcamp-ue/"
