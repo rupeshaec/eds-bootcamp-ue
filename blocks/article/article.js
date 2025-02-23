@@ -13,8 +13,8 @@ export default function decorate(block) {
     <div class="article-img">
       <img src="{img}" alt="{title}" class="article-card__image">
     </div>
-    <h1 class="article-card__title">{title}</h1>
-    <p class="article-card__description">{description}</p>
+    <h1 class="article-card-title">{title}</h1>
+    <p class="article-card-description">{description}</p>
   </div>
   `;
 
