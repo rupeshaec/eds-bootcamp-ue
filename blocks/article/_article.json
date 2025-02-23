@@ -24,11 +24,18 @@
                     "component": "text",
                     "name": "title",
                     "label": "Title"
-                  },
-                  {
+                },
+                {
                     "component": "aem-content",
                     "name": "link",
                     "label": "JSON Payload"
+                },
+                {
+                    "component": "richtext",
+                    "name": "text",
+                    "value": "button text",
+                    "label": "Button with CTA and label",
+                    "valueType": "string"
                 }
             ]
         }

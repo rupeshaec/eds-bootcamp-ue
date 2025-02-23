@@ -1,9 +1,9 @@
 .button-wknd.block a{
-    background-color: var(--brandPrimary, #ffea00);
-    border-radius: var(--buttonBorderRadius, 0);
-    color: var(--textColor, #202020);
-    font-size: var(--fontSizeSmall, 14px);
-    font-weight: var(--fontWeightBold, 600);
+    background-color: #ffea00;
+    border-radius: 0;
+    color: #202020;
+    font-size: 14px;
+    font-weight: 600;
     padding: 1em 2.5em;
     text-transform: uppercase;
 }
